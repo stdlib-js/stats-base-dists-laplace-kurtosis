@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for a [Laplace][laplace-distribution] random var
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-kurtosis@v0.1.0-deno/mod.js';
 ```
 
 #### kurtosis( mu, b )
@@ -127,7 +127,7 @@ y = kurtosis( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-kurtosis@v0.1.0-deno/mod.js';
 
 var mu;
 var b;
