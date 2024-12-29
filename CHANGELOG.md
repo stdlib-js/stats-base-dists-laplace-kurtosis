@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-26)
+## Unreleased (2024-12-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c4c4ed8`](https://github.com/stdlib-js/stdlib/commit/c4c4ed8abb88be48be587bcc9b9235e10de86aa4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`c12422c`](https://github.com/stdlib-js/stdlib/commit/c12422c2728f2bace8f06dee87ab9de18e63588b) - **feat:** add C implementation for `stats/base/dists/laplace/kurtosis` [(#4188)](https://github.com/stdlib-js/stdlib/pull/4188) _(by Vivek maurya)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
