@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
@@ -52,9 +53,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   GK Bishnoi
+-   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
 
